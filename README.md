@@ -52,17 +52,18 @@ For 7 day retention, the **retention rate for gate_30 is significantly higher** 
 ### Problematic findings
 
 **#1: The majority of players have not reached the first gate within 14 days**
+It can be seen from the chart below that only 37.26% of players assigned to the gate_30 version actually reach the first gate.
+
 ![image](https://github.com/user-attachments/assets/8d609481-dfaf-40e9-b766-20408c66edba)
 
 
+It can be seen from the chart below that only 30.4% of players assigned to the gate_40 version actually reach the first gate.
 
-It can be seen from the chart that only 37.26% of players assigned to the gate_30 version actually reach the first gate.
 
 ![image](https://github.com/user-attachments/assets/89682b04-d075-41aa-9572-bae36ccc18ac)
 
 
 
-It can be seen from the chart that only 30.4% of players assigned to the gate_40 version actually reach the first gate.
 
 **#2: There is a vague time frame regarding when players encounter the first gate**
 
