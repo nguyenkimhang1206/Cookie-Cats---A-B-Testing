@@ -47,24 +47,29 @@ However, is this difference statistically significant, allowing us to reject the
 **1 Day Retention**
 
 For 1 day retention, there is **no statistically significant difference** between gate_30 and gate_40.
+![image](https://github.com/user-attachments/assets/d0e7e59e-f699-4767-accb-4e35a0f09904)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/8d5c5e87-d7dc-4580-8787-a93ad377ea0e/image.png)
+
 
 **7 Day Retention**
 
 For 7 day retention, the **retention rate for gate_30 is significantly higher** than that of gate_40 at a 95% confidence level. 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/d44376fc-6a68-4411-a7a4-924c5ccadb82/image.png)
+![image](https://github.com/user-attachments/assets/ec5a7bf4-de90-4ad4-9b53-afcc80a35f4f)
+
 
 ### Problematic findings
 
 **#1: The majority of players have not reached the first gate within 14 days**
+![image](https://github.com/user-attachments/assets/8d609481-dfaf-40e9-b766-20408c66edba)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/846b2c46-dc60-4933-84de-d8b806fdc0a7/image.png)
+
 
 It can be seen from the chart that only 37.26% of players assigned to the gate_30 version actually reach the first gate.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c879900-1c9d-46c0-ac23-4a12ff6eaf9f/59a6b349-a06e-4475-824f-f968897ed790/image.png)
+![image](https://github.com/user-attachments/assets/89682b04-d075-41aa-9572-bae36ccc18ac)
+
+
 
 It can be seen from the chart that only 30.4% of players assigned to the gate_40 version actually reach the first gate.
 
