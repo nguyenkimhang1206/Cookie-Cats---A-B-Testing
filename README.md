@@ -30,6 +30,7 @@ This dataset consisted of 5 columns can be found [here](https://www.kaggle.com/d
 ### A/B testing findings
 
 ![image](https://github.com/user-attachments/assets/b0468899-0265-4fee-806a-05b0d28bc7ee)
+
 We can observe that **gate_30 indeed had a higher percentage of users returning to the game** **within 1 day and 7 days** after installation compared to gate_40. Specifically, 44.82% of users returned after 1 day, compared to 44.23% for gate_40. Similarly, 19.02% of users returned after 7 days, compared to 18.20% for gate_40.
 
 However, is this difference statistically significant, allowing us to reject the null hypothesis that there is no difference? To determine this, we can input our results into an online calculator https://www.evanmiller.org/ab-testing/chi-squared.html 
