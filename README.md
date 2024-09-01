@@ -36,9 +36,7 @@ The data we have is from 90,189 players that installed the game while the AB-tes
 # 3. Insights Summary
 
 ### A/B testing findings
-Version	Total players	Retention_1_day	Retention_7_day
-gate_30	44699	44.82%	19.02%
-gate_40	45489	44.23%	18.20%
+
 ![image](https://github.com/user-attachments/assets/b0468899-0265-4fee-806a-05b0d28bc7ee)
 We can observe that **gate_30 indeed had a higher percentage of users returning to the game** **within 1 day and 7 days** after installation compared to gate_40. Specifically, 44.82% of users returned after 1 day, compared to 44.23% for gate_40. Similarly, 19.02% of users returned after 7 days, compared to 18.20% for gate_40.
 
