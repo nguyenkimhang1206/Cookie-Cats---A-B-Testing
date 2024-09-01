@@ -73,7 +73,7 @@ It can be seen from the chart that only 30.4% of players assigned to the gate_40
 
 **#2: There is a vague time frame regarding when players encounter the first gate**
 
-Since gamerounds are calculated within the first 14 days, we don’t know whether players who return to the game encounter the first gate within 1 day, 7 days, or later. We only have retention rates for the 1-day and 7-day timeframes.
+Since gamerounds are calculated within the first 14 days, we don’t know whether players who return to the game encounter the first gate within 1 day, 7 days, or later. And we only have retention rates for the 1-day and 7-day timeframes.
 
 # 4. Conclusion
 
