@@ -81,6 +81,6 @@ To sum up, **moving the first gate to level 40 is unlikely to affect 1-day reten
 
 However, **moving the first gate to level 40 could potentially decrease 7-day retention** because many players might quit the game before reaching level 40. In this context, placing the first gate earlier could serve as an incentive to improve player engagement. Since we do not know if players actually reach the first gate within 7 days, we **cannot definitively conclude that moving the gate to level 40 negatively impacts the retention rate.**
 
-**Further investigation** is needed to understand what actually affects 7-day retention. We should consider incorporating the time frame when players reach the first gate into the experiment design to test whether moving the gate impacts 7-day retention rates. This will help us gain more confidence in determining whether our A/B test affects retention.
+**Further investigation** is needed to understand what actually affects 7-day retention. We **should consider incorporating the time frame** when players reach the first gate into the experiment design to test whether moving the gate impacts 7-day retention rates. This will help us gain more confidence in determining whether our A/B test affects retention.
 
 Therefore, **at present, we should not move the first gate from level 30 to level 40.**
